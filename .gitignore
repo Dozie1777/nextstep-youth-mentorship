@@ -1,0 +1,47 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+credentials*.json
+secrets/
+.secrets/
+
+# Generated output and dependencies
+/dist/
+node_modules/
+coverage/
+
+# Temporary files, logs and archives
+tmp/
+temp/
+.cache/
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+*.zip
+*.tar
+*.tar.gz
+
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/
+*.py[cod]
+
+# Account-specific hosting settings and local credentials
+.openai/
+.netrc
+.npmrc
+.pypirc
+id_rsa*
+id_ed25519*
