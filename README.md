@@ -66,7 +66,7 @@ account-specific deployment identifiers are intentionally excluded.
 - Resource filters with an announced result count.
 - Demo join form with preset sample learners and three learning paths.
 - Inline feedback, reduced-motion support and descriptive image alternative text.
-- Locally bundled illustrations; no external font or image dependencies.
+- Locally bundled illustrations; no external font or image dependency
 
 ## Demo privacy
 
