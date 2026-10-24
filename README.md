@@ -10,7 +10,7 @@ JavaScript, with no framework, package installation or backend required.
 ![NextStep desktop welcome section with blue headings and an illustration of a mentor guiding young learners](images/screenshot.jpg)
 
 Screenshot of the published desktop welcome section, captured before the file-only
-reorganisation on 10 October 2026. It illustrates the current visual design.
+reorganisation on 10 October 2026. It illustrates the current visual design..
 
 ## Project structure
 
